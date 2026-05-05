@@ -66,8 +66,7 @@ Proficient in **SQL, Python, Tableau, and AWS Redshift**, I have a strong track 
 ---
 
 ### **Customer Support Representative**
-
-**Tech Mahindra**
+**Tech Mahindra** 📅 Sep 2019 – Sep 2020
 
 * Managed high-volume customer interactions with strong focus on customer satisfaction.
 * Consistently exceeded SLA targets and handle time metrics.
