@@ -1,55 +1,99 @@
+# 👋 Hi, I'm **Bobby Ghauri**
 
+### 📊 Data Analyst
 
-# **BOBBY GHAURI** Data Analyst
+📞 +91-9518242545
+📧 [ghauribalrambobby97@gmail.com](mailto:ghauribalrambobby97@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/bobby1997/)
 
- Phone: \+91-9518242545 | Email: ghauribalrambobby97@gmail.com | LinkedIn:www.linkedin.com/in/bobby1997/ |
+---
 
-## **PROFESSIONAL SUMMARY**
+## 🧠 Professional Summary
 
-Strategic Data Analyst with 6+ years of experience, including 3+ years specializing in product analytics. Combines strong analytical capability with strategic thinking and executive-level storytelling to inform product roadmap decisions, commercial strategy, and manage portfolio performance. Expert in advanced SQL, Python, Tableau, and AWS Redshift. Proven track record in transforming complex datasets into scalable insights that drive measurable business efficiency and product performance across cross-functional teams.
+Strategic Data Analyst with **6+ years of experience**, including **3+ years in product analytics**. I specialize in combining deep analytical skills with strategic thinking and executive-level storytelling to influence product roadmap decisions and business strategy.
 
-## **SKILLS**
+Proficient in **SQL, Python, Tableau, and AWS Redshift**, I have a strong track record of transforming complex datasets into actionable insights that drive measurable improvements in product performance and operational efficiency.
 
-**Data Analysis & Languages:** SQL, Python, Excel  
-**Visualization & BI Tools:** Tableau, AWS Redshift  
-**Data Engineering & Governance:** ETL Processes, Data Warehousing, Data Modeling, Data Quality/Integrity, Apache Airflow  
-**Analytical Skills:** Exploratory Data Analysis (EDA), Statistical Methods & Predictive Analysis, A/B Testing & Experimentation, Cohort and Funnel Analysis, KPI Tracking
+---
 
-## **WORK EXPERIENCE**
+## 🛠️ Skills
 
-### **Data Analyst | Unacademy \- Prepladder (Chandigarh),					           *Dec 2020 – Present***
+### 💻 Data Analysis & Programming
 
-* Conducted comprehensive Exploratory Data Analysis (EDA) on complex datasets to identify underlying patterns and critical points, enabling data-backed system optimization that improved conversion and retention by 3–4%.
+* SQL
+* Python
+* Excel
 
-* Produced recurring and ad hoc performance reports with clear, concise narratives on key drivers, risks, and opportunities, providing data-backed system optimization and process improvements.
+### 📊 Visualization & BI Tools
 
-* Developed and maintained interactive dashboards in Tableau integrated with AWS Redshift to deliver real-time KPI tracking and operational visibility for cross-functional stakeholders. 
+* Tableau
+* AWS Redshift
 
-* Wrote and optimized advanced SQL queries for large-scale data extraction, transformation, and analysis, reducing reporting time by 40% and supporting robust data pipelines.  
+### ⚙️ Data Engineering & Governance
 
-* Executed 50+ ad-hoc analyses, applying advanced statistical methods and A/B testing (user segmentation, MTD/YTD trends) to deliver forward-looking recommendations that directly informed product roadmap decisions and commercial strategy.
+* ETL Processes
+* Data Warehousing
+* Data Modeling
+* Data Quality & Integrity
+* Apache Airflow
 
-* Partnered with cross-functional stakeholders across Product, Sales, and Finance to clearly interpret business requirements and translate complex data findings into actionable strategies.  
+### 📈 Analytical Expertise
 
-* Ensured data accuracy and integrity by engineering clean base tables, executing data quality checks, and supporting the optimization of data warehousing and ETL processes (AWS Redshift).
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis & Predictive Modeling
+* A/B Testing & Experimentation
+* Cohort & Funnel Analysis
+* KPI Tracking
 
-* Automated operational reporting using Excel and Google Sheets (Agent Performance, Chatbot Efficiency dashboards), successfully increasing workflow visibility and overall departmental efficiency.  
+---
 
-* Applied root cause analysis to high-volume operational and user feedback data to identify workflow bottlenecks, translating messy inputs into clear process and product improvement recommendations, demonstrating client-facing problem-solving skills.
+## 💼 Work Experience
 
-### **Customer Support Representative | Tech Mahindra ### **Data Analyst | Unacademy \- Prepladder (Chandigarh),					           *Dec 2020 – Present***          
+### **Data Analyst**
 
-* Managed high-volume customer calls and requests, maintaining minimal wait times and delivering a positive customer experience for product and service inquiries.  
-* Consistently exceeded customer call guidelines, including SLA and handle time, while providing support for Swiggy and Flipkart processes.
+**Unacademy - Prepladder (Chandigarh)**
+📅 Dec 2020 – Present
 
+* Conducted in-depth EDA to uncover patterns and improve system performance, increasing **conversion and retention by 3–4%**.
+* Built and maintained **interactive Tableau dashboards** integrated with AWS Redshift for real-time KPI tracking.
+* Optimized complex SQL queries, reducing reporting time by **40%**.
+* Delivered **50+ ad-hoc analyses** using statistical methods and A/B testing to guide product and business strategy.
+* Collaborated with Product, Sales, and Finance teams to translate data insights into actionable decisions.
+* Improved data integrity through robust data modeling, ETL optimization, and quality checks.
+* Automated operational reporting using Excel and Google Sheets, enhancing workflow efficiency.
+* Performed root cause analysis on user feedback and operational data to identify and resolve bottlenecks.
 
-## **EDUCATION**
+---
 
-**Bachelor of Technology: Mechanical Engineering,** 			    Kurukshetra University | 2015 – 2019
+### **Customer Support Representative**
 
-## **CERTIFICATIONS & AWARDS**
+**Tech Mahindra**
 
-* SQL / PostgreSQL Bootcamp: Go from Beginner to Advanced (Udemy)  
-* Share Data Through The Art of Visualization (Coursera | Google)  
-* Top Performer Award (Prep-Star) for FY 2023-2024  
-* Employee of the Month (July & December 2023\)
+* Managed high-volume customer interactions with strong focus on customer satisfaction.
+* Consistently exceeded SLA targets and handle time metrics.
+* Supported operations for major clients including Swiggy and Flipkart.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (Mechanical Engineering)**
+Kurukshetra University (2015 – 2019)
+
+---
+
+## 🏆 Certifications & Awards
+
+* SQL / PostgreSQL Bootcamp (Udemy)
+* Share Data Through the Art of Visualization (Coursera | Google)
+* 🥇 Top Performer Award (Prep-Star) – FY 2023–2024
+* 🌟 Employee of the Month – July & December 2023
+
+---
+
+## 📌 What I Do
+
+* Turn raw data into meaningful insights
+* Build dashboards that drive decisions
+* Optimize systems using data-backed strategies
+* Partner with teams to solve real business problems
