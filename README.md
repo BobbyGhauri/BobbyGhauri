@@ -2,7 +2,6 @@
 
 ### 📊 Data Analyst
 
-📞 +91-9518242545
 📧 [ghauribalrambobby97@gmail.com](mailto:ghauribalrambobby97@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/bobby1997/)
 
