@@ -21,12 +21,15 @@ Proficient in **SQL, Python, Tableau, and AWS Redshift**, I have a strong track 
 
 * SQL
 * Python
-* Excel
+* Statistical Analysis
+* A/B Testing & Experimentation
+* Cohort & Funnel Analysis
 
 ### 📊 Visualization & BI Tools
 
 * Tableau
-* AWS Redshift
+* Power BI
+* Excel
 
 ### ⚙️ Data Engineering & Governance
 
@@ -51,16 +54,14 @@ Proficient in **SQL, Python, Tableau, and AWS Redshift**, I have a strong track 
 ### **Data Analyst**
 
 **Unacademy - Prepladder (Chandigarh)**
-📅 Dec 2020 – Present
+📅 Oct 2020 – Present
 
-* Conducted in-depth EDA to uncover patterns and improve system performance, increasing **conversion and retention by 3–4%**.
-* Built and maintained **interactive Tableau dashboards** integrated with AWS Redshift for real-time KPI tracking.
-* Optimized complex SQL queries, reducing reporting time by **40%**.
-* Delivered **50+ ad-hoc analyses** using statistical methods and A/B testing to guide product and business strategy.
-* Collaborated with Product, Sales, and Finance teams to translate data insights into actionable decisions.
-* Improved data integrity through robust data modeling, ETL optimization, and quality checks.
-* Automated operational reporting using Excel and Google Sheets, enhancing workflow efficiency.
-* Performed root cause analysis on user feedback and operational data to identify and resolve bottlenecks.
+* Increased install-to-premium conversion by 7% and improved retention by designing and executing A/B tests on the app onboarding funnel, translating experiment results directly into product decisions.
+* Served as the central analytics partner to six cross-functional teams like Product, Sales, Marketing, Growth, Operations, and Finance. Build 10+ Tableau dashboards on Redshift (Lead Flow, Revenue Growth, App Engagement, Agent Performance, Campaign Tracking etc.) that became the org's shared source of truth for decision-making.
+* Wrote 50+ ad-hoc SQL queries (Joins, CTEs, window functions, subqueries) feeding an automated email report covering user segmentation with Product KPIs like DAU, MAU, Avg time spent, MTD/YTD trends etc.
+* Improved app's Google PlayStore rating from 3.9 to 4.4 stars within two months by analyzing user feedback, identifying pain points, and collaborating with the product & tech  team to implement product improvements. 
+* Collaborated with Product, Tech, Sales, Marketing, Operations, Content and Finance teams to translate data insights into actionable decisions.
+* Improved data quality & integrity through robust data modeling, ETL optimization, and quality checks
 
 ---
 
