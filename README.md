@@ -21,11 +21,8 @@ Proficient in **SQL, Python, Tableau, and AWS Redshift**, I have a strong track 
 
 * SQL
 * Python
-* Statistical Analysis
-* A/B Testing & Experimentation
-* Cohort & Funnel Analysis
 
-### 📊 Visualization & BI Tools
+### 📊 Data Visualization
 
 * Tableau
 * Power BI
